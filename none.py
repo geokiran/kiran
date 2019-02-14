@@ -1,9 +1,9 @@
-n1=int(input())
-n2=int(input())
-n3=int(input())
-if n1>n2 and n1>n3:
-	print(n1,"is greatest")
-elif n2>n3:
-	print(n2)
+g1=int(input())
+g2=int(input())
+g3=int(input())
+if g1>g2 and g1>g3:
+	print(g1,"is greatest")
+elif g2>g3:
+	print(g2)
 else:
-	print(n3)
+	print(g3)
