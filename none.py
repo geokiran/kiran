@@ -1,6 +1,4 @@
-g1=int(input())
-g2=int(input())
-g3=int(input())
+g1,g2,g3=map(int,input().split())
 if g1>g2 and g1>g3:
 	print(g1,"is greatest")
 elif g2>g3:
