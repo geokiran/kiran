@@ -6,4 +6,4 @@ if xa=='a' or xa=='e' or xa=='i' or xa=='o' or xa=='u':
     else:
 	print("Consonent")
 else:
-     print("Invalid")
+     print("invalid")
