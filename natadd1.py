@@ -1,7 +1,7 @@
-n=int(input())
-w=1
+g=int(input())
+d=1
 summ=0
-while w<=n:
+while d<=g:
 	summ=summ+w
-	w=w+1
+	d=d+1
 print(summ)
